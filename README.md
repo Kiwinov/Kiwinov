@@ -1,3 +1,1 @@
-Hello! I'm Samarth, an undergrad student from IIT Madras interested in machine learning and competitive programming.
-I have worked with CNNs, GANs and RNNs in the past, I'm learning more about Data Structures and Algorithms now.
-I'm open for any collaborations
+Hello! I'm Samarth, an undergrad from IIT Madras. I am passionate about machine learning, PINNs and computer vision. I have been working on research projects involving AI, and have worked in startups as an ML engineer. I am looking forward to potential collaborations in AI research.
